@@ -25,8 +25,9 @@ Please note that this lesson uses Python 3 rather than Python 2.
 {: .callout}
 
 > ## Prerequisites
->
-> 1. Learners need to understand what files and directories are,
+
+>  0. Give Write access or pull
+>  1. Learners need to understand what files and directories are,
 >    what a working directory is,
 >    and how to start a Python interpreter from a terminal window.
 >
