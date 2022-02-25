@@ -1,7 +1,7 @@
 ---
-title: "Programming Style"
-teaching: 15
-exercises: 15
+title: "(Programming Style)"
+teaching: 0
+exercises: 0
 questions:
 - "How can I make my programs more readable?"
 - "How do most programmers format their code?"
