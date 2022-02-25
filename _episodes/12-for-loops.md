@@ -1,7 +1,7 @@
 ---
-title: "For Loopsb"
-teaching: 10
-exercises: 15
+title: "(For Loops)"
+teaching: 0
+exercises: 0
 questions:
 - "How can I make a program do many things?"
 objectives:
