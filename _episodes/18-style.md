@@ -5,7 +5,7 @@ exercises: 0
 questions:
 ## - "How can I make my programs more readable?"
 ## - "How do most programmers format their code?"
-- "<span style='background-color: #c0c0c0'> We may not teach this </span>"
+- "<span style='color: gray; text-decoration: italic'> We may not teach this </span>"
 objectives:
 - "Provide sound justifications for basic rules of coding style."
 - "Refactor one-page programs to make them more readable and justify the changes."
