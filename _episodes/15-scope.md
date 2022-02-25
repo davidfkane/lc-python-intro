@@ -1,7 +1,7 @@
 ---
-title: "Variable Scope"
-teaching: 10
-exercises: 10
+title: "(Variable Scope)"
+teaching: 0
+exercises: 0
 questions:
 - "How do function calls actually work?"
 - "How can I determine where errors occurred?"
